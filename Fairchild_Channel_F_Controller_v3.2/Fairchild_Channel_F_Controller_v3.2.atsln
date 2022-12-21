@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Fairchild_Channel_F_Controller_v3.2", "Fairchild_Channel_F_Controller_v3.2.cproj", "{420C7CC5-BD86-43B1-8A72-4D213C70A394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		firmware|AVR = firmware|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{420C7CC5-BD86-43B1-8A72-4D213C70A394}.firmware|AVR.ActiveCfg = firmware|AVR
+		{420C7CC5-BD86-43B1-8A72-4D213C70A394}.firmware|AVR.Build.0 = firmware|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

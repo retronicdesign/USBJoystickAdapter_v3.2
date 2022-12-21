@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Atari_7800_Joystick_v3.2", "Atari_7800_Joystick_v3.2.cproj", "{A8725195-080F-4694-974C-61859EA4F2EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		firmware|AVR = firmware|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8725195-080F-4694-974C-61859EA4F2EA}.firmware|AVR.ActiveCfg = firmware|AVR
+		{A8725195-080F-4694-974C-61859EA4F2EA}.firmware|AVR.Build.0 = firmware|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

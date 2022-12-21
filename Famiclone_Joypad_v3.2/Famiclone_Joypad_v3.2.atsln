@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Famiclone_Joypad_v3.2", "Famiclone_Joypad_v3.2.cproj", "{10F5B1B9-E03C-4981-ACD2-51FABED79196}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		firmware|AVR = firmware|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10F5B1B9-E03C-4981-ACD2-51FABED79196}.firmware|AVR.ActiveCfg = firmware|AVR
+		{10F5B1B9-E03C-4981-ACD2-51FABED79196}.firmware|AVR.Build.0 = firmware|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

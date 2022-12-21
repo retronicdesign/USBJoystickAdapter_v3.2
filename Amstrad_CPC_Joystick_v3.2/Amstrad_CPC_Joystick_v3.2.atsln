@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Amstrad_CPC_Joystick_v3.2", "Amstrad_CPC_Joystick_v3.2.cproj", "{041A961F-5EDA-487E-8176-CF2203E02EC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		firmware|AVR = firmware|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{041A961F-5EDA-487E-8176-CF2203E02EC5}.firmware|AVR.ActiveCfg = firmware|AVR
+		{041A961F-5EDA-487E-8176-CF2203E02EC5}.firmware|AVR.Build.0 = firmware|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

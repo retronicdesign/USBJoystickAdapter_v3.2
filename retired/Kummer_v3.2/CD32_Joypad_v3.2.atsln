@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "CD32_Joypad_v3.2", "CD32_Joypad_v3.2.cproj", "{75D3522D-469C-4A12-9931-5EACC1A1B049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		joystick1|AVR = joystick1|AVR
+		joystick2|AVR = joystick2|AVR
+		joystick3|AVR = joystick3|AVR
+		joystick4|AVR = joystick4|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75D3522D-469C-4A12-9931-5EACC1A1B049}.joystick1|AVR.ActiveCfg = joystick1|AVR
+		{75D3522D-469C-4A12-9931-5EACC1A1B049}.joystick1|AVR.Build.0 = joystick1|AVR
+		{75D3522D-469C-4A12-9931-5EACC1A1B049}.joystick2|AVR.ActiveCfg = joystick2|AVR
+		{75D3522D-469C-4A12-9931-5EACC1A1B049}.joystick2|AVR.Build.0 = joystick2|AVR
+		{75D3522D-469C-4A12-9931-5EACC1A1B049}.joystick3|AVR.ActiveCfg = joystick3|AVR
+		{75D3522D-469C-4A12-9931-5EACC1A1B049}.joystick3|AVR.Build.0 = joystick3|AVR
+		{75D3522D-469C-4A12-9931-5EACC1A1B049}.joystick4|AVR.ActiveCfg = joystick4|AVR
+		{75D3522D-469C-4A12-9931-5EACC1A1B049}.joystick4|AVR.Build.0 = joystick4|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

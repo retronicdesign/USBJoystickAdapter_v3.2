@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ColecoFlashback_Controller_v3.2", "ColecoFlashback_Controller_v3.2.cproj", "{955F9AF6-5C2A-4B85-BB6D-3947CA05DF19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		firmware|AVR = firmware|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{955F9AF6-5C2A-4B85-BB6D-3947CA05DF19}.firmware|AVR.ActiveCfg = firmware|AVR
+		{955F9AF6-5C2A-4B85-BB6D-3947CA05DF19}.firmware|AVR.Build.0 = firmware|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
