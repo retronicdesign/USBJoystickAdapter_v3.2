@@ -2,7 +2,7 @@
 # USB Joystick Adapter v3.2
 This repository contains all firmware sources for the Retronic Design's USB Joystick Adapter for all supported devices. This code is provided under a GPLv3 licence and does not offer any warranty whatsoever. This is for developpement and testing purposes.
 
-Please see our binary section to download usable compiled code to flash your adapters.
+Please see our [binary section](https://github.com/retronicdesign/USBJoystickAdapter_v3.2/releases) to download usable compiled code to flash your adapters.
 
 # Schematic of the USB Joystick Adapter v3.2:
 ![USBJoystickAdapterSchematic_v3 2](https://user-images.githubusercontent.com/18539931/209212455-df1dc9a4-5eb0-40f1-a42c-67fb9a5d5afb.png)
@@ -48,7 +48,7 @@ Please see our binary section to download usable compiled code to flash your ada
 - ZX Spectrum interface2 joystick
 
 # Flashing software
-Mr.Switcher see Mr.Switcher section
+Mr.Switcher see [Mr.Switcher section](https://github.com/retronicdesign/Mr.Switcher)
 
 ![Mr Switcher](https://user-images.githubusercontent.com/18539931/209214649-65bd6397-d0e9-4c7b-8d2b-489b6db2d548.jpg)
 
