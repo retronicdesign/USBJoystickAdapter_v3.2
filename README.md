@@ -45,3 +45,8 @@ Please see our binary section to download usable compiled code to flash your ada
 - TI99-4-4a joystick
 - Vectrex joystick
 - ZX Spectrum interface2 joystick
+
+# Flashing software
+Mr.Switcher see Mr.Switcher section
+![Mr Switcher](https://user-images.githubusercontent.com/18539931/209214649-65bd6397-d0e9-4c7b-8d2b-489b6db2d548.jpg)
+
