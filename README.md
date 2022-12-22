@@ -2,13 +2,12 @@
 # USB Joystick Adapter v3.2
 This repository contains all firmware sources for the Retronic Design's USB Joystick Adapter for all supported devices. This code is provided under a GPLv3 licence and does not offer any warranty whatsoever. This is for developpement and testing purposes.
 
-Please see our [binary section](https://github.com/retronicdesign/USBJoystickAdapter_v3.2/releases) to download usable compiled code to flash your adapters.
-
 # Schematic of the USB Joystick Adapter v3.2:
 ![USBJoystickAdapterSchematic_v3 2](https://user-images.githubusercontent.com/18539931/209212455-df1dc9a4-5eb0-40f1-a42c-67fb9a5d5afb.png)
 [USBJoystickAdapter_v3.2.pdf](https://github.com/retronicdesign/USBJoystickAdapter_v3.2/files/10289845/USBJoystickAdapter_v3.0.pdf)
 
-# Supported devices
+# Supported devices  
+Please see our [binary section](https://github.com/retronicdesign/USBJoystickAdapter_v3.2/releases) to download usable compiled code (.HEX) to flash your adapters.
 - 3DO joypad
 - Amiga Mouse
 - Amstrad CPC joysticks
