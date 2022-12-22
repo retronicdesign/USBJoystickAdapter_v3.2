@@ -1,3 +1,4 @@
+![Joyv3 2](https://user-images.githubusercontent.com/18539931/209214874-d44410cd-c410-4dcb-a8c0-da0bec944849.jpg)
 # USB Joystick Adapter v3.2
 This repository contains all firmware sources for the Retronic Design's USB Joystick Adapter for all supported devices. This code is provided under a GPLv3 licence and does not offer any warranty whatsoever. This is for developpement and testing purposes.
 
